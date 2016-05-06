@@ -1,0 +1,14 @@
+a.draftsforfriends-extend { padding: 3px 10px 3px 10px; margin-right: 4px; border: 1px solid; }
+div.draftsforfriends-extend input { height:26px; }
+.wp-admin select { vertical-align: baseline; }
+.wp-list-table .column-title { width: 30%; }
+.wp-list-table .column-author { width: 10%; }
+.wp-list-table .column-status { width: 12%; }
+.wp-list-table .column-link { width: 33%; }
+.wp-list-table .column-expires { width: 15%; }
+.wp-list-table .column-expires .red { color: #a00; }
+.wp-list-table .column-expires .orange { color: orange; }
+.wp-list-table .column-expires .green { }
+.wp-list-table .column-status .status-ok { }
+.wp-list-table .column-status .status-error { color: #a00; }
+.widefat td { vertical-align: middle; }
